@@ -1,0 +1,25 @@
+.theme-color
+{
+    background:  #82b1ff 
+}
+#admin .card:hover
+{
+    background:#82b1ff; 
+    cursor: pointer
+}
+.discount-label
+{
+    font-size: 15px!important;
+    font-style: initial;
+}
+
+.mrp-label
+{
+    text-decoration: line-through!important;
+}
+
+#card-decoration:hover
+{
+    background: gold;
+    cursor: pointer;
+}
